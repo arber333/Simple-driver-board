@@ -1,0 +1,276 @@
+Plot Report
+-----------
+
+Report Written:     Friday, November 10, 2017
+Design Path:        D:\EV Design\PCB pošiljanje\Simple driver board\simple V2.pcb
+Design Title:       
+Created:            2.7.2015 20:28:30
+Last Saved:         10.11.2017 12:31:07
+Editing Time:       3950 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "D:\EV Design\PCB pošiljanje\Simple driver board\simple V2.mop"
+
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 4.00
+    D11    Round 1.00
+    D12    Round 6.00
+    D13    Round 5.00
+    D76    Round 10.00
+    D77    Round 3.94
+    D79    Round 4.80
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D13    Round 5.00
+    D82    Round 177.17
+    D84    Rectangle 25.00 X 80.00
+    D85    Square 60.00
+    D88    Oval 52.00 X 104.00  Rotation 90
+    D89    Round 63.00
+    D90    Octagon 63.00
+    D91    Round 62.00
+    D92    Octagon 62.00
+    D93    Rectangle 51.18 X 59.06  Rotation 90
+    D94    Rectangle 51.18 X 59.06
+    D95    Round 50.00
+    D96    Round 25.00
+    D98    Round 15.00
+    D106   Round 86.61
+    D107   Round 48.00
+    D150   Rectangle 63.00 X 102.00  Rotation 90
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D14    Round 183.17
+    D17    Square 66.00
+    D18    Oval 58.00 X 110.00  Rotation 90
+    D19    Round 69.00
+    D70    Octagon 63.00
+    D71    Rectangle 57.18 X 65.06  Rotation 90
+    D20    Round 68.00
+    D21    Octagon 62.00
+    D22    Rectangle 57.18 X 65.06
+    D27    Rectangle 69.00 X 108.00  Rotation 90
+    D100   Rectangle 31.00 X 86.00
+    D108   Round 92.61
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D28    Rectangle 45.18 X 53.06  Rotation 90
+    D29    Rectangle 45.18 X 53.06
+    D74    Rectangle 57.00 X 96.00  Rotation 90
+    D103   Rectangle 19.00 X 74.00
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D13    Round 5.00
+    D78    Round 78.74
+    D82    Round 177.17
+    D85    Square 60.00
+    D88    Oval 52.00 X 104.00  Rotation 90
+    D89    Round 63.00
+    D90    Octagon 63.00
+    D91    Round 62.00
+    D92    Octagon 62.00
+    D93    Rectangle 51.18 X 59.06  Rotation 90
+    D95    Round 50.00
+    D96    Round 25.00
+    D98    Round 15.00
+    D106   Round 86.61
+    D107   Round 48.00
+    D109   Rectangle 55.00 X 60.00  Rotation 90
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 4.00
+    D11    Round 1.00
+    D13    Round 5.00
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D14    Round 183.17
+    D17    Square 66.00
+    D18    Oval 58.00 X 110.00  Rotation 90
+    D19    Round 69.00
+    D70    Octagon 63.00
+    D71    Rectangle 57.18 X 65.06  Rotation 90
+    D20    Round 68.00
+    D21    Octagon 62.00
+    D108   Round 92.61
+    D110   Rectangle 61.00 X 66.00  Rotation 90
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D28    Rectangle 45.18 X 53.06  Rotation 90
+    D111   Rectangle 49.00 X 54.00  Rotation 90
+
+NC Drill Output
+===============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02400 in 2     L
+    T002  000.03200 in 66    C
+    T003  000.03500 in 14    D
+    T004  000.05906 in 14    N
+    T005  000.12598 in 6     M
+    T006  000.16142 in 2     F
+    ------------------------------------
+    Total              104
+    ------------------------------------
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+D:\EV Design\PCB pošiljanje\Simple driver board\simple V2 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    32    Y      100  Round C
+    35    Y      100  Round D
+    161   Y      100  Round F
+    24    Y      100  Round L
+    126   Y      100  Round M
+    59    Y      100  Round N
+
+    D-Code Shape  (thou)
+    -----------------------
+    D13    Round 5.00
+    D75    Round 100.00
+
+End Of Report.

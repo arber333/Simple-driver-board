@@ -1,0 +1,13 @@
+Pour Copper Report
+------------------
+
+Report Written:     Saturday, January 20, 2018
+Design Path:        D:\Elektro avto\Kontroler\inverter PCB\PCB pošiljanje\Simple driver board\simple V2.pcb
+Design Title:       
+Created:            02/07/2015 20:28:30
+Last Saved:         10/11/2017 12:57:38
+Editing Time:       3957 min
+Units:              mm (precision 1)
+
+
+End Of Report.
